@@ -1,0 +1,13 @@
+// 01-leitura-numero-inteiro.alg
+// Exemplo de leitura de um número inteiro no Visualg
+// Disciplina: Algoritmos e Lógica de Programação I
+// Professor: Edson Orivaldo Lessa Junior
+
+algoritmo "LeituraNumeroInteiro"
+var
+   numero: inteiro
+inicio
+   escreva("Digite um número: ")
+   leia(numero)
+   escreva("Você digitou: ", numero)
+fimalgoritmo
