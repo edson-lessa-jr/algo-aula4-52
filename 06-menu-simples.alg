@@ -1,6 +1,6 @@
 // 06-menu-simples.alg
-// Exemplo de menu simples com entrada de opção no Visualg
 // Disciplina: Algoritmos e Lógica de Programação I
+// Exemplo de menu simples com entrada de opção no Visualg
 // Professor: Edson Orivaldo Lessa Junior
 
 algoritmo "MenuSimples"

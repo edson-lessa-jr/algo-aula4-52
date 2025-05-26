@@ -1,6 +1,6 @@
 // 05-entrada-saida-real.alg
-// Exemplo de leitura e exibição de valor real no Visualg
 // Disciplina: Algoritmos e Lógica de Programação I
+// Exemplo de leitura e exibição de valor real no Visualg
 // Professor: Edson Orivaldo Lessa Junior
 
 algoritmo "ExemploReal"

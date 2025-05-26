@@ -1,6 +1,6 @@
 // 04-media-simples.alg
-// Exemplo de cálculo de média de dois números no Visualg
 // Disciplina: Algoritmos e Lógica de Programação I
+// Exemplo de cálculo de média de dois números no Visualg
 // Professor: Edson Orivaldo Lessa Junior
 
 algoritmo "MediaSimples"

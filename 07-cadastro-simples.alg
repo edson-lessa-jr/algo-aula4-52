@@ -1,6 +1,6 @@
 // 07-cadastro-simples.alg
-// Exemplo de cadastro simples no Visualg
 // Disciplina: Algoritmos e Lógica de Programação I
+// Exemplo de cadastro simples no Visualg
 // Professor: Edson Orivaldo Lessa Junior
 
 algoritmo "CadastroSimples"
